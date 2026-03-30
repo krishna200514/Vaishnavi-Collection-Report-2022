@@ -25,7 +25,7 @@ Highest selling category?
 
 Percentage of Total Orders delivered.
 
-- Vaishnavi Collection Dashboard interaction  <a href= "https://github.com/krishna200514/Vaishnavi-Collection-Report-2022/blob/main/Vaishnavi%20Collection%20Dashboard%20.png">Dashboard_img</a>
+Vaishnavi Collection Dashboard interaction  <a href= "https://github.com/krishna200514/Vaishnavi-Collection-Report-2022/blob/main/Vaishnavi%20Collection%20Dashboard%20.png">Dashboard_img</a>
 
 ## Process
 - Verify data for any missing values and errors, and sort out the same.
