@@ -25,7 +25,8 @@ Highest selling category?
 
 Percentage of Total Orders delivered.
 
-Vaishnavi Collection Dashboard interaction  <a href= "https://github.com/krishna200514/Vaishnavi-Collection-Report-2022/blob/main/Vaishnavi%20Collection%20Dashboard%20.png">Dashboard_img</a>
+## Dashboard
+<img width="1768" height="577" alt="Vaishnavi Collection Dashboard " src="https://github.com/user-attachments/assets/85b3d46b-5743-4e30-8cef-6d1fae49a73a" />
 
 ## Process
 - Verify data for any missing values and errors, and sort out the same.
@@ -34,8 +35,7 @@ Vaishnavi Collection Dashboard interaction  <a href= "https://github.com/krishna
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-## Dashboard
-<img width="1768" height="577" alt="Vaishnavi Collection Dashboard " src="https://github.com/user-attachments/assets/85b3d46b-5743-4e30-8cef-6d1fae49a73a" />
+
 
  ## Project Insight
 Women customers are more likely to buy products compared to men (~65%).
